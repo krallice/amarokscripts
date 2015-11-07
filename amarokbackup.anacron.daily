@@ -1,0 +1,2 @@
+#!/bin/bash
+su - sroz9960 -c "/bin/bash /home/sroz9960/amarok_backups/backup_amarok.sh -s"
