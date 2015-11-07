@@ -1,0 +1,2 @@
+# amarokscripts
+Scripts for Amarok
